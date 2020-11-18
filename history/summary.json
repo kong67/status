@@ -5,14 +5,14 @@
     "slug": "",
     "status": "up",
     "uptime": "0.00",
-    "time": 1136
+    "time": 1176
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "92.12",
+    "uptime": "91.20",
     "time": 0
   }
 ]
