@@ -3,16 +3,16 @@
     "name": "배워서 남주자",
     "url": "https://onedaystudy.tistory.com",
     "slug": "",
-    "status": "up",
-    "uptime": "0.00",
-    "time": 1181
+    "status": "down",
+    "uptime": "100.00",
+    "time": 1200
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
-    "status": "down",
-    "uptime": "90.29",
+    "status": "up",
+    "uptime": "100.00",
     "time": 0
   }
 ]
