@@ -4,15 +4,15 @@
     "url": "https://onedaystudy.tistory.com",
     "slug": "",
     "status": "up",
-    "uptime": "85.37",
-    "time": 1256
+    "uptime": "78.68",
+    "time": 1254
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "98.32",
+    "uptime": "97.37",
     "time": 0
   }
 ]
