@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/onedaystudy.tistory.com",
     "slug": "",
     "status": "up",
-    "uptime": "40.35%",
+    "uptime": "40.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.50%",
-    "time": 1708,
-    "timeDay": 2024,
-    "timeWeek": 1708,
-    "timeMonth": 1587,
+    "uptimeYear": "69.78%",
+    "time": 1709,
+    "timeDay": 1941,
+    "timeWeek": 1768,
+    "timeMonth": 1591,
     "timeYear": 1746,
     "dailyMinutesDown": {
       "2021-11-19": 516,
@@ -125,8 +125,7 @@
       "2021-08-05": 1440,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
-      "2021-08-02": 1440,
-      "2021-08-01": 1440
+      "2021-08-02": 1440
     }
   },
   {
@@ -135,11 +134,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "47.87%",
+    "uptime": "47.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.50%",
+    "uptimeYear": "69.78%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -255,8 +254,7 @@
       "2021-08-05": 1440,
       "2021-08-04": 1440,
       "2021-08-03": 1440,
-      "2021-08-02": 1440,
-      "2021-08-01": 1440
+      "2021-08-02": 1440
     }
   }
 ]
