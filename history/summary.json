@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/onedaystudy.tistory.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "47.09%",
+    "uptime": "47.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.46%",
-    "time": 1760,
-    "timeDay": 1530,
-    "timeWeek": 2522,
-    "timeMonth": 2098,
+    "uptimeYear": "91.70%",
+    "time": 1761,
+    "timeDay": 1673,
+    "timeWeek": 2549,
+    "timeMonth": 2091,
     "timeYear": 1779,
     "dailyMinutesDown": {
       "2021-11-19": 516,
@@ -45,8 +45,7 @@
       "2021-10-24": 1440,
       "2021-10-23": 1440,
       "2021-10-22": 1440,
-      "2021-10-21": 1440,
-      "2021-10-20": 1440
+      "2021-10-21": 1440
     }
   },
   {
@@ -55,11 +54,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "53.09%",
+    "uptime": "53.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.46%",
+    "uptimeYear": "91.70%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -95,8 +94,7 @@
       "2021-10-24": 1440,
       "2021-10-23": 1440,
       "2021-10-22": 1440,
-      "2021-10-21": 1440,
-      "2021-10-20": 1440
+      "2021-10-21": 1440
     }
   }
 ]
