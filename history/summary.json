@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/onedaystudy.tistory.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "48.81%",
+    "uptime": "48.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.00%",
+    "uptimeYear": "98.27%",
     "time": 1849,
-    "timeDay": 1972,
-    "timeWeek": 1895,
-    "timeMonth": 2904,
+    "timeDay": 1719,
+    "timeWeek": 1869,
+    "timeMonth": 2912,
     "timeYear": 1886,
     "dailyMinutesDown": {
       "2021-11-19": 516,
@@ -21,8 +21,7 @@
       "2021-11-17": 1440,
       "2021-11-16": 1440,
       "2021-11-15": 1440,
-      "2021-11-14": 1440,
-      "2021-11-13": 1440
+      "2021-11-14": 1440
     }
   },
   {
@@ -31,11 +30,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "54.45%",
+    "uptime": "54.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.00%",
+    "uptimeYear": "98.27%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -47,8 +46,7 @@
       "2021-11-17": 1440,
       "2021-11-16": 1440,
       "2021-11-15": 1440,
-      "2021-11-14": 1440,
-      "2021-11-13": 1440
+      "2021-11-14": 1440
     }
   }
 ]
